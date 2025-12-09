@@ -309,10 +309,4 @@ Stop and remove data:
 docker-compose down -v
 ```
 
-## 📄 License
 
-MIT License
-
----
-
-**Happy Coding!** 🎉
